@@ -1,10 +1,10 @@
-# Resolução desafio HackerSec
+# Resolução desafio HackerSec 🕵️
 **Nome:** Noob <br>
 **Categoria:** Criptografia e Cifras (Iniciante) <br>
 **Pontuação:** 5 pontos <br>
 **Descrição:** Um desafio que envolve criptografia, permitindo ao usuário compreender melhor sua atuação e exercício de raciocínio para resolver falhas.
 
-# Resolução
+# Resolução 🧠
 Inicialmente em todo desafio, é importante analisar o código-fonte da página, para que o mesmo possa ser observado e analisado e o atacante consiga extrair o máximo de informações possíveis para obter a *flag*. Ao descer até o final da página do código-fonte é possível observar na linha <u>**415**</u> o seguinte código: 
 
     
@@ -34,5 +34,5 @@ Ao inserirmos tanto o texto a ser decifrado, quanto a senha para decifrá-lo e r
 
 Devemos inserir ela na página inicial do desafio e clicar em "Pontuar" realizando assim o desafio. 
 
-## Considerações finais
+## Considerações finais 🤙
 Este é um ótimo desafio para o exercício de lógica na exploração de falhas, fazend ocom que o atacante procure por informações sensíveis no código fonte, aprenda a lidar com criptografia e explore novas formas de ver uma página web.
